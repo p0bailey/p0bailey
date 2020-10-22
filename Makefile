@@ -10,4 +10,4 @@ all:
 
 
 deploy_to_gh: ## deploy to github
-	git add -A && git commit -m "Blog update: $(TIMESTAMP)" && git push origin master || true
+	git add -A && git commit -m "Reame update: $(TIMESTAMP)" && git push origin master || true
