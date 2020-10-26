@@ -8,5 +8,6 @@ Hey, I'm Phillip Bailey.
 
 :hammer:
 - https://github.com/p0bailey/k42s
+- https://github.com/p0bailey/minivault
 - https://github.com/p0bailey/packer-templates
 - https://github.com/p0bailey/docker-sonarqube
