@@ -6,7 +6,7 @@ Hey, I'm Phillip Bailey.
 
 :lock:
 - https://keybase.io/pbailey
-- If you need to send me sensitive information, please sign and encrypt your email by [GnuPG](https://www.gnupg.org/) using my [public key](https://pgp.mit.edu/pks/lookup?op=get&search=0x92E36BFF). To fetch my pub key from terminal:
+- If you need to send me sensitive information, please sign and encrypt your email by [GnuPG](https://www.gnupg.org/) using my [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/E2BAE5499BB8D04B4D7D868FB7962061908929FD). To fetch my pub key from terminal:
 
 `gpg --keyserver hkp://keys.gnupg.net --recv  0x908929FD`
 
