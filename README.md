@@ -7,7 +7,8 @@ Hey, I'm Phillip Bailey.
  * Newsletters
     * Cloud and CyberSecurity
       * [cyberweekly.net](https://cyberweekly.net)
-              
+    * Culture and Leadership
+      * [softwareleadweekly.com](https://softwareleadweekly.com)
 
 :heart: Debian GNU/Linux - AWS - Digital Ocean - Kubernetes - Terraform - Vault - Packer - Ansible - Python - GnuPG - Tor
 
