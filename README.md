@@ -10,7 +10,7 @@ Hey, I'm Phillip Bailey.
     * Culture and Leadership
       * [softwareleadweekly.com](https://softwareleadweekly.com)
 
-:heart: Debian GNU/Linux - AWS - Digital Ocean - Kubernetes - Terraform - Vault - Packer - Ansible - Python - GnuPG - Tor
+:heart: AWS - Kubernetes - Terraform - Vault - Python - GnuPG - Debian GNU/Linux
 
 :lock: If you need to send me sensitive information, please sign and encrypt your email by [GnuPG](https://www.gnupg.org/) using my [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/E2BAE5499BB8D04B4D7D868FB7962061908929FD). To fetch my pub key from terminal:
 
