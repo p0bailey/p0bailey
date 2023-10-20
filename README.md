@@ -1,6 +1,6 @@
 Hey, I'm Phillip Bailey.
 
-:heart: AWS - Kubernetes - Terraform - Vault - Python - GnuPG - Debian GNU/Linux
+:heart: AWS - Kubernetes - IaC - Debian GNU/Linux
 
 :lock: If you need to send me sensitive information, please sign and encrypt your email by [GnuPG](https://www.gnupg.org/) using my [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/E2BAE5499BB8D04B4D7D868FB7962061908929FD). To fetch my pub key from terminal:
 
