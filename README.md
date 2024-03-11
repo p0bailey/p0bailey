@@ -8,6 +8,9 @@ Hey, I'm Phillip Bailey.
 
 The fingerprint of the key is: E2BA E549 9BB8 D04B 4D7D  868F B796 2061 9089 29FD
 
+![aws Logo](https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png "AWS Architect")
+
+
 :hammer: Projects
 - https://github.com/p0bailey/tofuinit
 - https://github.com/p0bailey/k42s
