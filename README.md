@@ -10,6 +10,10 @@ The fingerprint of the key is: E2BA E549 9BB8 D04B 4D7D  868F B796 2061 9089 29F
 
 ![aws Logo](https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png "AWS Architect")
 
+![aws Logo](https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png "AWS Security Specialty")
+
+
+
 
 :hammer: Projects
 - https://github.com/p0bailey/tofuinit
