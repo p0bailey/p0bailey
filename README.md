@@ -1,6 +1,6 @@
 Hey, I'm Phillip Bailey.
 
-:heart: AWS - Kubernetes - IaC - Python - Debian
+:heart: Platform Engineering - DevSecOps - AWS - IA - IaC - Python - Linux
 
 Cloud Platform Architect in the e-commerce, financial services, media, and government sectors. 
 
