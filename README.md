@@ -1,6 +1,6 @@
 Hey, I'm Phillip Bailey.
 
-:heart: Platform Engineering - DevSecOps - AWS - IA - IaC - Python - Linux
+:heart: Platform Engineering - DevSecOps - AWS - IA - IaC 
 
 Cloud Platform Architect in the e-commerce, financial services, media, and government sectors. 
 
