@@ -11,6 +11,8 @@ Cloud Platform Architect in the e-commerce, financial services, media, and gover
 
 https://www.credly.com/users/phillip-bailey.121d7c16/badges
 
+📚 PUBBLICATIONS
+
 [AI AWS Landing Zone: A Secure architecture blueprint for the artificial intelligence age](https://www.linkedin.com/feed/update/urn:li:activity:7299454078114254848)
 
 [Solving the Secret Zero and Dynamic Secrets challenge at scale.](https://medium.com/@p0bailey/solving-the-secret-zero-and-dynamic-secrets-challenge-at-scale-b2d24d41d493)
