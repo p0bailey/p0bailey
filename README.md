@@ -11,9 +11,7 @@ Cloud Platform Architect in the e-commerce, financial services, media, and gover
 
 https://www.credly.com/users/phillip-bailey.121d7c16/badges
 
+[AI AWS Landing Zone: A Secure architecture blueprint for the artificial intelligence age](https://www.linkedin.com/feed/update/urn:li:activity:7299454078114254848)
 
-:lock: If you need to send me sensitive information, please sign and encrypt your email by [GnuPG](https://www.gnupg.org/) using my [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/E2BAE5499BB8D04B4D7D868FB7962061908929FD). To fetch my pub key from terminal:
+[Solving the Secret Zero and Dynamic Secrets challenge at scale.](https://medium.com/@p0bailey/solving-the-secret-zero-and-dynamic-secrets-challenge-at-scale-b2d24d41d493)
 
-`gpg --keyserver hkp://keys.gnupg.net --recv  0x908929FD`
-
-The fingerprint of the key is: E2BA E549 9BB8 D04B 4D7D  868F B796 2061 9089 29FD
