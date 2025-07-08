@@ -20,7 +20,7 @@ A structured framework embedding accountability, oversight, risk appetite and co
 
 ---
 
-### AWS AI Landing Zone  
+### AWS AI Landing Zone Architecture  
 A secure, multi‑account landing-zone architecture built using AWS CDK. Designed to support AI workloads and ensure compliance.  
 🔗 [GitHub → p0bailey/aws-ai-landing-zone](https://github.com/p0bailey/aws-ai-landing-zone)
 
