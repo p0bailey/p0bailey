@@ -15,8 +15,7 @@ Systematic threat modeling toolkit for CyberSecurity professionals. Identifies v
 ---
 
 ### AI Governance, Risk & Compliance Framework (Gov)  
-A structured framework embedding accountability, oversight, risk appetite and compliance for AI systems. Aligns with NIST AI RMF, EU AI Act, and cybersecurity best practices.  
-🔗 [GitHub Wiki → p0bailey/gov/wiki](https://github.com/p0bailey/gov/wiki)
+A structured framework embedding accountability, oversight, risk appetite and compliance for AI systems. Aligns with NIST AI RMF, EU AI Act, and cybersecurity best practices.  🔗 [GitHub Wiki → p0bailey/gov/wiki](https://github.com/p0bailey/gov/wiki)
 
 ---
 
