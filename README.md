@@ -1,8 +1,9 @@
-Hey, I'm Phillip Bailey.
+## 👋 About Me
 
-:heart: AI Security and Compliance - DevSecOps - Platform Engineering 
+Hey, I'm **Phillip Bailey**.
 
-Cloud Security Architect in the e-commerce, financial services, media, and government sectors. 
+❤️ Focused on Platform Engineering, AI Security, Risk and Compliance, DevSecOps.  
+🔐 Cloud Security Architect with extensive experience across e-commerce, financial services, media, and government sectors.
 
 ## 🛠️ Projects
 
