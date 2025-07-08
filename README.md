@@ -11,6 +11,8 @@ https://www.credly.com/users/phillip-bailey.121d7c16/badges
 
 ## 🛠️ Projects
 
+## 🛠️ Projects
+
 ### ThreatWolf  
 A sophisticated open‑source threat‑hunting toolkit. Helps security teams detect and respond to threats across AWS environments.  
 🔗 [GitHub → p0bailey/ThreatWolf](https://github.com/p0bailey/ThreatWolf)
@@ -18,14 +20,15 @@ A sophisticated open‑source threat‑hunting toolkit. Helps security teams det
 ---
 
 ### AI Governance, Risk & Compliance Framework (Gov)  
-A structured framework embedding accountability, oversight, risk appetite and compliance for AI systems. Aligns with NIST AI RMF, EU AI Act, and cybersecurity best practices. Documented via the GitHub Wiki.  
-🔗 [GitHub Wiki → p0bailey/gov/wiki](https://github.com/p0bailey/gov/wiki) :contentReference[oaicite:0]{index=0}
+A structured framework embedding accountability, oversight, risk appetite and compliance for AI systems. Aligns with NIST AI RMF, EU AI Act, and cybersecurity best practices.  
+🔗 [GitHub Wiki → p0bailey/gov/wiki](https://github.com/p0bailey/gov/wiki)
 
 ---
 
 ### AWS AI Landing Zone  
-A secure, multi‑account landing‑zone architecture built using AWS CDK. Designed to support AI workloads and ensure compliance.  
+A secure, multi‑account landing-zone architecture built using AWS CDK. Designed to support AI workloads and ensure compliance.  
 🔗 [GitHub → p0bailey/aws-ai-landing-zone](https://github.com/p0bailey/aws-ai-landing-zone)
+
 
 
 📚 PUBBLICATIONS
