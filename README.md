@@ -11,7 +11,6 @@ https://www.credly.com/users/phillip-bailey.121d7c16/badges
 
 ## 🛠️ Projects
 
-## 🛠️ Projects
 
 ### ThreatWolf  
 A sophisticated open‑source threat‑hunting toolkit. Helps security teams detect and respond to threats across AWS environments.  
@@ -31,9 +30,14 @@ A secure, multi‑account landing-zone architecture built using AWS CDK. Designe
 
 
 
-📚 PUBBLICATIONS
+## 📚 Publications
 
-[AI AWS Landing Zone: A Secure architecture blueprint for the artificial intelligence age](https://www.linkedin.com/feed/update/urn:li:activity:7299454078114254848)
+### AI AWS Landing Zone: A Secure Architecture Blueprint for the Artificial Intelligence Age  
+Outlines a secure, scalable AWS landing zone architecture tailored for AI workloads.  
+🔗 [Read on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7299454078114254848)
 
-[Solving the Secret Zero and Dynamic Secrets challenge at scale.](https://medium.com/@p0bailey/solving-the-secret-zero-and-dynamic-secrets-challenge-at-scale-b2d24d41d493)
+---
 
+### Solving the Secret Zero and Dynamic Secrets Challenge at Scale  
+Explores scalable approaches to eliminate hardcoded credentials using dynamic secrets and zero trust principles.  
+🔗 [Read on Medium](https://medium.com/@p0bailey/solving-the-secret-zero-and-dynamic-secrets-challenge-at-scale-b2d24d41d493)
