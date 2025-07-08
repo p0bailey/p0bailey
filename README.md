@@ -9,7 +9,7 @@ Hey, I'm **Phillip Bailey**.
 
 
 ### ThreatWolf  
-A sophisticated open‑source threat‑hunting toolkit. Helps security teams detect and respond to threats across AWS environments.  
+Systematic threat analysis toolkit for CyberSecurity professionals. Identifies vulnerabilities, assesses risks, and suggests mitigations across digital systems, processes, and infrastructure. Covers STRIDE methodology and OWASP (Infrastructure, APIs, Web Applications, LLMs, Agentic AI) risks, attack vectors, and defensive measures.
 🔗 [GitHub → p0bailey/ThreatWolf](https://github.com/p0bailey/ThreatWolf)
 
 ---
