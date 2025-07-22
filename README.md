@@ -9,8 +9,12 @@ Cloud Security Architect with extensive experience across e-commerce, financial 
   
 
 ### <img src="https://raw.githubusercontent.com/p0bailey/ThreatWolf/main/.img/1.png" width="50" style="vertical-align:middle; margin-right:8px;"> ThreatWolf  
-Systematic threat modeling toolkit for CyberSecurity professionals. Identifies vulnerabilities, assesses risks, and suggests mitigations across digital systems, processes, and infrastructure. Covers STRIDE methodology and OWASP (Infrastructure, APIs, Web Applications, LLMs, Agentic AI) risks, attack vectors, and defensive measures.
+Threat modelling GPT copilot for CyberSecurity professionals. Identifies vulnerabilities, assesses risks, and suggests mitigations across digital systems, processes, and infrastructure. Covers STRIDE methodology and OWASP (Infrastructure, APIs, Web Applications, Data, LLMs, Generative and Agentic AI) risks, attack vectors, and defensive measures.
+- Covers STRIDE methodology and OWASP (Infrastructure, APIs, Web Apps, LLMs, Agentic AI)
+- Supports prioritisation logic and defensive countermeasures
+- Extensible, aligned with real-world workflows  
 🔗 [GitHub → p0bailey/ThreatWolf](https://github.com/p0bailey/ThreatWolf)
+
 
 ---
 
