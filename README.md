@@ -8,9 +8,10 @@ Cloud Security Architect with extensive experience across e-commerce, financial 
 
   
 
-### ThreatWolf
-<img src="https://raw.githubusercontent.com/p0bailey/ThreatWolf/main/.img/1.png" width="50" style="vertical-align:middle; margin-right:8px;">   
+### <img src="https://raw.githubusercontent.com/p0bailey/ThreatWolf/main/.img/1.png" width="50" style="vertical-align:middle; margin-right:8px;">   ThreatWolf
+ 
 Threat modelling copilot for CyberSecurity professionals. Uses STRIDE and OWASP to identify vulnerabilities, assess risk, and recommend mitigations across systems, APIs, data, and AI (LLMs, generative, agentic).
+
 - Covers STRIDE methodology and OWASP (Infrastructure, APIs, Web Apps, LLMs, Agentic AI)
 - Supports prioritisation logic and defensive countermeasures
 - Extensible, aligned with real-world workflows  
