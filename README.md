@@ -15,7 +15,7 @@ Threat modelling copilot for CyberSecurity professionals. Uses STRIDE and OWASP 
 - Covers STRIDE methodology and OWASP (Infrastructure, APIs, Web Apps, LLMs, Agentic AI)
 - Supports prioritisation logic and defensive countermeasures
 - Extensible, aligned with real-world workflows  
-🔗 [GitHub → p0bailey/ThreatWolf](https://github.com/p0bailey/ThreatWolf)
+- [GitHub → p0bailey/ThreatWolf](https://github.com/p0bailey/ThreatWolf)
 
 
 ---
