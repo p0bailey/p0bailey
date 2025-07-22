@@ -2,7 +2,7 @@
 
 Hey, I'm **Phillip Bailey**.
 
-Cloud Security Architect with extensive experience across e-commerce, financial services, media, and government sectors.
+Cloud/AI Security Architect with extensive experience across e-commerce, financial services, media, and government sectors.
 
 ##  Projects
 
