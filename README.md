@@ -19,11 +19,6 @@ Threat modelling copilot for CyberSecurity professionals. Uses STRIDE and OWASP 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/wiki/p0bailey/gov/.img/1.png" width="50" style="vertical-align:middle; margin-right:8px;"> AI Governance, Risk & Compliance Framework (Gov)  
-A structured framework embedding accountability, oversight, risk appetite and compliance for AI systems. Aligns with NIST AI RMF, EU AI Act, and cybersecurity best practices.  🔗 [GitHub Wiki → p0bailey/gov/wiki](https://github.com/p0bailey/gov/wiki)
-
----
-
 ### AWS AI Landing Zone Architecture  
 A secure, multi‑account landing-zone architecture built using AWS CDK. Designed to support AI workloads and ensure compliance.  
 🔗 [GitHub → p0bailey/aws-ai-landing-zone](https://github.com/p0bailey/aws-ai-landing-zone)
