@@ -41,7 +41,7 @@ Explores scalable approaches to eliminate hardcoded credentials using dynamic se
 ## Credentials
 
 <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"  width="200" height="200"> <img src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png"  
-                                                                                                                        width="200" height="200">  <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png"  width="210" height="210"> 
+                                                                                                                        width="200" height="200">  
 
 🔗 [Verify my badges on Credly](https://www.credly.com/users/phillip-bailey.121d7c16/badges)
 
